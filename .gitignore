@@ -1,1 +1,11 @@
-__pycache__
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore log files
+output.log
+
+# Ignore Python cache directories
+__pycache__/
