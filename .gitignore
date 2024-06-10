@@ -2,10 +2,10 @@
 .env
 
 # Ignore VSCode settings
-.vscode/
+.vscode
 
 # Ignore log files
 output.log
 
 # Ignore Python cache directories
-__pycache__/
+__pycache__
