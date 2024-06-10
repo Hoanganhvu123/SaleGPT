@@ -1,0 +1,32 @@
+order_id,customer_name,phone_number,address,order_details,preferred_delivery_time
+1,Nguyễn Văn A,123456789,"123 Đường ABC, Hà Nội",Sản phẩm X,7/7/2024
+2,Trần Thị B,987654321,"456 Đường DEF, TP.HCM",Sản phẩm Y,7/7/2024
+3,Lê Văn C,912345678,"789 Đường GHI, Đà Nẵng",Sản phẩm Z,7/4/2024
+4,Phạm Thị D,908765432,"101 Đường JKL, Cần Thơ",Sản phẩm A,7/3/2024
+5,Hoàng Văn E,123987654,"202 Đường MNO, Huế",Sản phẩm B,6/17/2024
+6,Võ Thị F,912765483,"303 Đường PQR, Hải Phòng",Sản phẩm C,6/21/2024
+7,Ngô Văn G,987123456,"404 Đường STU, Nha Trang",Sản phẩm D,7/9/2024
+8,Đinh Thị H,934567890,"505 Đường VWX, Quy Nhơn",Sản phẩm E,6/29/2024
+9,Bùi Văn I,967890123,"606 Đường YZ, Vũng Tàu",Sản phẩm F,6/21/2024
+10,Phan Thị J,901234567,"707 Đường ABC, Phú Quốc",Sản phẩm G,6/21/2024
+11,Lê Văn C,987654321,"101 Đường JKL, Cần Thơ",Sản phẩm Z,6/7/2024
+12,Lê Văn C,987654321,"101 Đường JKL, Cần Thơ",Sản phẩm Z,6/25/2024
+13,Lê Văn C,908765432,"123 Đường ABC, Hà Nội",Sản phẩm X,6/23/2024
+14,Lê Văn C,123987654,"789 Đường GHI, Đà Nẵng",Sản phẩm Z,6/15/2024
+15,Hoàng Văn E,987654321,"789 Đường GHI, Đà Nẵng",Sản phẩm B,6/13/2024
+16,Nguyễn Văn A,123987654,"456 Đường DEF, TP.HCM",Sản phẩm X,6/13/2024
+17,Nguyễn Văn A,123987654,"789 Đường GHI, Đà Nẵng",Sản phẩm B,6/5/2024
+18,Hoàng Văn E,123456789,"456 Đường DEF, TP.HCM",Sản phẩm B,6/25/2024
+19,Trần Thị B,123987654,"456 Đường DEF, TP.HCM",Sản phẩm B,6/9/2024
+20,Lê Văn C,123987654,"202 Đường MNO, Huế",Sản phẩm Y,6/24/2024
+21,Trần Thị B,987654321,"202 Đường MNO, Huế",Sản phẩm Z,6/17/2024
+22,Trần Thị B,123456789,"789 Đường GHI, Đà Nẵng",Sản phẩm X,6/26/2024
+23,Hoàng Văn E,987654321,"202 Đường MNO, Huế",Sản phẩm X,6/13/2024
+24,Nguyễn Văn A,987654321,"202 Đường MNO, Huế",Sản phẩm A,6/3/2024
+25,Trần Thị B,123987654,"789 Đường GHI, Đà Nẵng",Sản phẩm Y,6/22/2024
+26,Hoàng Văn E,987654321,"202 Đường MNO, Huế",Sản phẩm Z,6/21/2024
+27,Lê Văn C,123456789,"101 Đường JKL, Cần Thơ",Sản phẩm B,6/23/2024
+28,Hoàng Văn E,123456789,"123 Đường ABC, Hà Nội",Sản phẩm Y,6/15/2024
+29,Lê Văn C,123456789,"123 Đường ABC, Hà Nội",Sản phẩm B,6/21/2024
+30,Trần Thị B,123456789,"101 Đường JKL, Cần Thơ",Sản phẩm B,6/4/2024
+3dd98de3,Nguyễn Văn Hoàng Anh,0123456789,"123 Đường ABC, Hà Nội",Sản phẩm X,2024-06-15 00:00:00
