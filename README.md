@@ -26,30 +26,28 @@ To use SaleGPT, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/SaleGPT.git
 cd SaleGPT
+```
+
 Create and activate a virtual environment:
 
-bash
-Copy code
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
+
 Install dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 
 Usage 🚀
 .......
 
-
-
 .......
-
-
 
 Contributions 🤝
 We welcome contributions to this project. Please submit Pull Requests or report issues via our GitHub repository.
